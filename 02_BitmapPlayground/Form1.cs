@@ -11,14 +11,11 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//Todo: we can get rid of unused usings
 
 namespace _02_BitmapPlayground
 {
     public partial class Form1 : Form
-    {
-        Thread FilterThread = null;
-
+    {      
         public Form1()
         {
             InitializeComponent();
