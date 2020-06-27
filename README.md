@@ -1,4 +1,4 @@
-# WPF Simple Image Processor
+# CSharp Simple Image Filters
 This is a project that applying some filters on image. There are 3 filters: Red Filter, Gray Filter, and Average Filter 
 
 ### Red Filter
